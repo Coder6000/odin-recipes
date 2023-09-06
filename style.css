@@ -1,0 +1,21 @@
+.titles{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800px;
+    background-color: tan;
+    text-align: center;
+
+}
+.subtitles{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600px;
+    color: blue;
+    text-align: left;
+    font-size: 30px;
+}
+
+li{
+    font-size: 20px;
+    color: blueviolet;
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
